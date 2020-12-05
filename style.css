@@ -8,6 +8,7 @@ html, body {
     margin: 0 auto;
     height: 100%;
     position: relative;
+    font-family: 'Quicksand', sans-serif;
 }
 
 video {
@@ -43,7 +44,7 @@ header {
 }
 
 nav {
-    width: 30%;
+    width: 10%;
 }
 
 nav ul {
@@ -52,8 +53,27 @@ nav ul {
     justify-content: space-between;
 }
 
-.nav-link{
+.nav-link {
     text-decoration: none;
-    color: rgba(0,0,0,0.4);
+    color: rgba(0, 0, 0, 0.4);
     font-size: larger;
+}
+
+.nav-link:hover {
+    color: rgba(0, 0, 0, 0.8);;
+}
+
+.content {
+    flex: 1 0 auto;
+}
+
+footer {
+    text-align: center;
+    padding: 2%;
+    flex: 0 0 auto;
+}
+
+.footer-name {
+    font-size: larger;
+    color: rgba(0, 0, 0, 0.8);
 }
