@@ -15,6 +15,10 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
+.landing-page {
+    height: 100%;
+}
+
 video {
     height: 100vh;
     width: 100%;
@@ -74,7 +78,7 @@ nav ul {
 
 .content {
     flex-grow: 1;
-    padding-top: 130px;
+    padding: 130px 1% 0 1%;
 }
 
 footer {
@@ -83,7 +87,8 @@ footer {
     flex-shrink: 0;
 }
 
-.footer-name {
+.footer-name a {
+    text-decoration: none;
     font-size: larger;
     color: rgba(0, 0, 0, 0.8);
 }
