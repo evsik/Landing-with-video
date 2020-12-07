@@ -20,12 +20,38 @@
     width: 24.3%;
     height: 200px;
     margin-bottom: 1%;
+    position: relative;
+}
+
+.images-list:hover .image-list-hover {
+    visibility: visible;
+}
+
+.image-list-hover {
+    top: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #ebebeb6e;
+    visibility: hidden;
 }
 
 .images-link {
 }
 
-.images-link img {
+.images-link-hover {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    padding-top: 70px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.images-link-img {
     width: 100%;
     height: 100%;
     object-fit: cover;
