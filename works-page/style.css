@@ -6,9 +6,6 @@
     background-color: #ebebeb;
 }
 
-.content {
-}
-
 .content ul {
     display: flex;
     justify-content: space-between;
@@ -36,9 +33,6 @@
     visibility: hidden;
 }
 
-.images-link {
-}
-
 .images-link-hover {
     display: block;
     width: 100%;
@@ -57,9 +51,6 @@
     height: 100%;
     object-fit: cover;
     object-position: center;
-}
-
-.works-footer {
 }
 
 @media screen and (max-width: 992px) {
@@ -83,7 +74,4 @@
     .images-list:last-child {
         width: 49.5%;
     }
-}
-
-@media screen and (max-width: 350px) {
 }
