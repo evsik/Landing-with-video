@@ -6,7 +6,7 @@
     background-color: #ebebeb;
 }
 
-.content ul {
+.content .contentUl {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
