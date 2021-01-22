@@ -1,3 +1,6 @@
+//ПЕРЕДЕЛАТЬ НА JSON
+
+
 let IMAGES = ["../images/tinified/1.jpg", "../images/tinified/2.jpg", "../images/tinified/3.jpg",
     "../images/tinified/4.jpg", "../images/tinified/5.jpg", "../images/tinified/6.jpg", "../images/tinified/7.jpg",
     "../images/tinified/8.jpg", "../images/tinified/9.jpg", "../images/tinified/10.jpg", "../images/tinified/11.jpg",
