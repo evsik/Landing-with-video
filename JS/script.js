@@ -1,8 +1,5 @@
 function createBlock(index) {
     return {
-        // blockImg: IMAGES[index],
-        // blockCity: CITY[index],
-        // blockData: DATES[index],
         photo_name: index.photo_name,
         photo_city: index.photo_city,
         photo_data: index.photo_data,
@@ -45,12 +42,6 @@ let gallery = {
             })
     },
     _fetchItems() {
-
-        // let length = IMAGES.length;
-        //
-        // for (let i = 0; i < length; i++) {
-        //     this.items.push(createBlock(i))
-        // }
         let arr = []
 
         this.items.forEach(item => {
