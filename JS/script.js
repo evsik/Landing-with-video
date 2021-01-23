@@ -20,9 +20,13 @@ let DATES = ["21.11.2020", "8.08.2018", "8.08.2018", "7.08.2018", "7.08.2018",
 
 function createBlock(index) {
     return {
-        blockImg: IMAGES[index],
-        blockCity: CITY[index],
-        blockData: DATES[index],
+        // blockImg: IMAGES[index],
+        // blockCity: CITY[index],
+        // blockData: DATES[index],
+        blockImg: index.photo_name,
+        blockCity: index.photo_city,
+        blockData: index.photo_data,
+        blockId: index.id_obj,
         createTemplates() {
             return `
             <div class="images-list">
@@ -43,18 +47,30 @@ function createBlock(index) {
 let gallery = {
     items: [],
     container: ".contentUl",
+    catalogUrl: 'https://raw.githubusercontent.com/evsik/JavaScript/master/catalogData.json',
 
     init() {
-        this._fetchItems()
-        this._render()
+        this.items = []
+        this.getData(this.catalogUrl)
+            .finally(() => {
+                this._fetchItems()
+                this._render()
+            })
     },
 
     _fetchItems() {
-        let length = IMAGES.length;
+        // let length = IMAGES.length;
+        //
+        // for (let i = 0; i < length; i++) {
+        //     this.items.push(createBlock(i))
+        // }
+        let arr = []
 
-        for (let i = 0; i < length; i++) {
-            this.items.push(createBlock(i))
-        }
+        this.items.forEach(item => {
+            arr.push(createBlock(item))
+        })
+        console.log(arr)
+        this.items = arr
     },
     _render() {
         let container = document.querySelector(this.container)

@@ -1,0 +1,23 @@
+[
+  {
+    "id_obj": 1,
+    "photo_name": "../images/tinified/1.jpg"
+    "photo_city": "Moscow",
+    "photo_data": "21.11.2020"
+  },
+    "id_obj": 2,
+    "photo_name": "../images/tinified/1.jpg"
+    "photo_city": "Moscow",
+    "photo_data": "21.11.2020"
+  },
+    "id_obj": 3,
+    "photo_name": "../images/tinified/1.jpg"
+    "photo_city": "Moscow",
+    "photo_data": "21.11.2020"
+  },
+    "id_obj": 4,
+    "photo_name": "../images/tinified/1.jpg"
+    "photo_city": "Moscow",
+    "photo_data": "21.11.2020"
+  }
+]
