@@ -1,121 +1,121 @@
 [
   {
     "id_obj": 1,
-    "photo_name": "../images/tinified/1.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/1.jpg",
     "photo_city": "Moscow",
     "photo_data": "21.11.2020"
   },
   {
     "id_obj": 2,
-    "photo_name": "../images/tinified/2.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/2.jpg",
     "photo_city": "Budapest",
     "photo_data": "8.08.2018"
   },
   {
     "id_obj": 3,
-    "photo_name": "../images/tinified/3.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/3.jpg",
     "photo_city": "Budapest",
     "photo_data": "8.08.2018"
   },
   {
     "id_obj": 4,
-    "photo_name": "../images/tinified/4.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/4.jpg",
     "photo_city": "Budapest",
     "photo_data": "7.08.2018"
   },
   {
     "id_obj": 5,
-    "photo_name": "../images/tinified/5.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/5.jpg",
     "photo_city": "Budapest",
     "photo_data": "7.08.2018"
   },
   {
     "id_obj": 6,
-    "photo_name": "../images/tinified/6.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/6.jpg",
     "photo_city": "Budapest",
     "photo_data": "7.08.2018"
   },
   {
     "id_obj": 7,
-    "photo_name": "../images/tinified/7.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/7.jpg",
     "photo_city": "Montenegro",
     "photo_data": "6.08.2019"
   },
   {
     "id_obj": 8,
-    "photo_name": "../images/tinified/8.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/8.jpg",
     "photo_city": "Paris",
     "photo_data": "28.03.2019"
   },
   {
     "id_obj": 9,
-    "photo_name": "../images/tinified/9.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/9.jpg",
     "photo_city": "Prague",
     "photo_data": "4.06.2019"
   },
   {
     "id_obj": 10,
-    "photo_name": "../images/tinified/10.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/10.jpg",
     "photo_city": "Budapest",
     "photo_data": "7.08.2018"
   },
   {
     "id_obj": 11,
-    "photo_name": "../images/tinified/11.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/11.jpg",
     "photo_city": "Moscow",
     "photo_data": "25.08.2019"
   },
   {
     "id_obj": 12,
-    "photo_name": "../images/tinified/12.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/12.jpg",
     "photo_city": "Budapest",
     "photo_data": "7.08.2018"
   },
   {
     "id_obj": 13,
-    "photo_name": "../images/tinified/13.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/13.jpg",
     "photo_city": "Budapest",
     "photo_data": "8.08.2018"
   },
   {
     "id_obj": 14,
-    "photo_name": "../images/tinified/14.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/14.jpg",
     "photo_city": "Budapest",
     "photo_data": "6.08.2018"
   },
   {
     "id_obj": 15,
-    "photo_name": "../images/tinified/15.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/15.jpg",
     "photo_city": "Moscow",
     "photo_data": "3.10.2020"
   },
   {
     "id_obj": 16,
-    "photo_name": "../images/tinified/16.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/16.jpg",
     "photo_city": "Budapest",
     "photo_data": "7.08.2018"
   },
   {
     "id_obj": 17,
-    "photo_name": "../images/tinified/17.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/17.jpg",
     "photo_city": "Paris",
     "photo_data": "27.03.2019"
   },
   {
     "id_obj": 18,
-    "photo_name": "../images/tinified/18.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/18.jpg",
     "photo_city": "Paris",
     "photo_data": "28.03.2019"
   },
   {
     "id_obj": 19,
-    "photo_name": "../images/tinified/19.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/19.jpg",
     "photo_city": "Paris",
     "photo_data": "28.03.2019"
   },
   {
     "id_obj": 20,
-    "photo_name": "../images/tinified/20.jpg",
+    "photo_name": "https://raw.githubusercontent.com/evsik/static/master/ImgsForLandingWithVideo/20.jpg",
     "photo_city": "Paris",
     "photo_data": "29.03.2019"
   }
